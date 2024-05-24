@@ -18,3 +18,4 @@ if __name__ == '__main__':
     # Write the result to the output file
     fptr.write(str(result) + '\n')
     fptr.close()
+
